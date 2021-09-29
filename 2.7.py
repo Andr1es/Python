@@ -9,5 +9,4 @@ for i in range(period,len(random_array)):
     
     
 #print de formule met tekst in console
-print("Gemiddelde van dag", i-period, "tot", i, "is", np.mean(array));
-                    
+print("Gemiddelde van dag", i-period, "tot", i, "is", np.mean(array));               
